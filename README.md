@@ -24,7 +24,8 @@ Notes : Chords : Scale
 ```
 
  
-__resources__
+
+# Some Resources
 
 * https://books.google.com.gh/books/about/Music_in_Images.html?id=iF28ngEACAAJ&redir_esc=y
 * http://conceptual-algorithmic-music.blogspot.com/p/collection-of-algorithmic-music.html
